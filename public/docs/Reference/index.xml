@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>References on Hugo Book</title>
-    <link>https://example.com/docs/Reference/</link>
+    <link>https://onlinebook-hugo-book.netlify.app/docs/Reference/</link>
     <description>Recent content in References on Hugo Book</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://example.com/docs/Reference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://onlinebook-hugo-book.netlify.app/docs/Reference/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
