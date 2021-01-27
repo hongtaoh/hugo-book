@@ -14,7 +14,6 @@ Clarke (2000) did this by calculating the “Home: Away Ratio”. See Table 2.
 
 {{<figure src="https://raw.githubusercontent.com/hongtaoh/olymvis/master/static/pics/2-3.png" caption="Table 2: Percentage of available medals won by host countries at home and away, Clarke (2016)">}}
 
-
 He listed the percentage of all available medals won by countries that have ever hosted an Olympic both at the Home years and the Away years. The ratio of “Home: Away” was calculated. Obviously, a ratio larger than 1 indicates the existence of home-field advantage at the Olympics. The drawback of this method is that it only shows the summary of all the years, lacking information about these countries’ performance in each year. 
 
 Visualizations showing all the years do exist (Grange, 2016). See Figure 5.

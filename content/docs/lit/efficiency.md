@@ -2,7 +2,6 @@
 title: "Medal Efficiency"
 weight: 13
 ---
-
 # Medal Efficiency
 
 The most straightforward way of measuring a country’s efficiency of earning medals is to count the number of medals per athlete participating. This method was used by Pettigrew and Reiche (2016) in their analysis of home-field advantage. 

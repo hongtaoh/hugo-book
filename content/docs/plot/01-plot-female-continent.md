@@ -23,7 +23,6 @@ We then went back to the small multiple. Since we cared about the comparison bet
 
 {{<figure src="https://raw.githubusercontent.com/hongtaoh/olymvis-data/master/output/vis/g-2-5.png"  caption="Figure 28: Line graph in small multiple for female participation by continent against all other groups" class="wide">}}
 
-
 Finally, we decided to highlight the global average with a black line. This time, comparisons both between continents and with the global average were clear. See Figure 29.
 
 {{<figure src="https://raw.githubusercontent.com/hongtaoh/olymvis-data/master/output/vis/g-2-6.png" class="wide" caption="Figure 29: Line graph in small multiple for female participation by continent against global statistics">}}
